@@ -1,11 +1,12 @@
-# LP2_FaceRecognitionHOG
-Reconhecer uma pessoa utilizando o HOG e algoritmo K-NN
+# IMD0040: Linguagem de Programação 2
+## Projeto: FaceRecognition
 
-Se você tá lendo isso, saiba que isso é um trabalho que tá em construção.
+O objetivo deste trabalho é implementar um código com o intuito de reconhecer uma pessoa utilizando a funcionalidade _Histogram of Oriented Gradients_ (HOG) e o algoritmo _K-Nearest Neighbors_ (K-NN).
 
-Acho que isso não rodaria em qualquer outro PC que não o meu por enquanto pois tem que mudar o caminho da imagem PNG dentro da HOGExtractor.
+* **Status do projeto:** Em desenvolvimento
 
-Falta a interface gráfica e várias ótimizações e blá blá blá.
+* Caso se interesse em contribuir para o código atente para os caminhos das imagens PNG dentro do _HOGExtractor_.
 
-Outro detalhe que me incomoda é que eu coloquei pra verificar imagens aletatórias, umas com gente outras sem. Tinha imagem
-totalmente louca sendo identificada como pessoa e vice-versa.
+* **Features pendentes:** Interfáce gráfica.
+
+* **Bugs:** O código ainda não categoriza corretamente todas as imagens analisadas.
